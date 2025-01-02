@@ -1,6 +1,6 @@
 # IF2110 - Linear Algebra and Geometry
 
-<a href="https://github.com/Labpro-21/if2110-tugas-besar-2024-if2110-01-c/tree/main/doc"><strong>Documentation »</strong></a>
+<a href="https://github.com/DanielDPW/Makalah_IF2123_Algeo/tree/main/docs"><strong>Documentation »</strong></a>
 <br />
 </p>
 
